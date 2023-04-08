@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I've been Learning html, css, and JavaScript for the past 8 months.<br>- 🌱 I’m currently learning ReactJS and NextJS.<br>- 👯 I’m looking for an internship in the Front-End field where I would be able to showcase and improve my acquired skills<br>- 📫 How to reach me: almedinsh22@hotmail.com<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
+<br>- 🔭 I've been learning html, css, and JavaScript for the past 8 months.<br>- 🌱 I’m currently learning ReactJS and NextJS.<br>- 👯 I’m looking for an internship in the Front-End field where I would be able to showcase and improve my acquired skills<br>- 📫 How to reach me: almedinsh22@hotmail.com<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
 
 
 ## 🌐 Contact:
