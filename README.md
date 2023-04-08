@@ -19,16 +19,18 @@ LinkedIn: https://www.linkedin.com/in/almedin-shala-56902322a/
 <h2>🎓 Certifications:</h2>
 
  Creative Hub Kosova (Front-End Development Academy) -- On-site 
- - Academy included: 1)HTML and CSS 2) JavaScript 3) React, with React Hooks and React Router
+ - The Academy included: 1)HTML and CSS 2) JavaScript 3) React, with React Hooks and React Router
  - Built a completely responsive website in the classroom alongside the instructor
  - Built a completely responsive website on my own using HTML, CSS and Javascript 
 
 
  Build Responsive Real-World Websites with HTML and CSS (Udemy Course) -- Online
  - Built a fully responsive modern website alongside the instructor
+
+
  The Complete JavaScript Course 2023, From Zero To Expert (Udemy Course)  -- Online
  - In this 70 hour course, I took on more than 25 challenges where I also built 5 projects alongside the instructor
- - This Course included Modern JavaScript, Object-Oriented Programming, Asynchronous JavaScript and much more.
+ - This Course included Modern JavaScript, Object-Oriented Programming, Asynchronous JavaScript and much more
 
  
 
