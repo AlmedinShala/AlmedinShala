@@ -16,8 +16,20 @@ LinkedIn: https://www.linkedin.com/in/almedin-shala-56902322a/
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  
- # 📎 My Projects: 
- 
+<h2>🎓 Certifications:</h2>
+
+ Creative Hub Kosova (Front-End Development Academy) -- On-site 
+ - Academy included: 1)HTML and CSS 2) JavaScript 3) React, with React Hooks and React Router
+ - Built a completely responsive website in the classroom alongside the instructor
+ - Built a completely responsive website on my own using HTML, CSS and Javascript 
+
+
+ Build Responsive Real-World Websites with HTML and CSS (Udemy Course) -- Online
+ - Built a fully responsive modern website alongside the instructor
+ The Complete JavaScript Course 2023, From Zero To Expert (Udemy Course)  -- Online
+ - In this 70 hour course, I took on more than 25 challenges where I also built 5 projects alongside the instructor
+ - This Course included Modern JavaScript, Object-Oriented Programming, Asynchronous JavaScript and much more.
+
  
 
 
