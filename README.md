@@ -1,4 +1,8 @@
 # 💫 About Me:
+<br>A very passionate person about programming in general but mainly focused in front-end technologies. I am interested in getting an internship where I would be able to showcase my skills and improve them more by getting into real-world projects. 
+Besides learning on-site at CHB, I have been learning online for the past year where I learnt a lot about Computer Science in general while also taking different courses in JavaScript ES6, ReactJs, TailwindCSS and more. 
+I am extremely disciplined when it comes to learning and improving therefore I would give it my all to deliver every day to the best of my ability and I bet that I will always exceed your expectations.<br>
+
 <br>- 🔭 I've been learning html, css, and JavaScript for the past 8 months.<br>- 🌱 I’m currently learning ReactJS and NextJS.<br>- 👯 I’m looking for an internship in the Front-End field where I would be able to showcase and improve my acquired skills<br>- 📫 How to reach me: almedinsh22@hotmail.com<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
 
 
