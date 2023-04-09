@@ -8,7 +8,7 @@ I am extremely disciplined when it comes to learning and improving therefore I w
 
 ## 🌐 Contact:
 email: almedinsh22@hotmail.com
-LinkedIn: https://www.linkedin.com/in/almedin-shala-56902322a/
+Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
 
 # 💻 Tech Stack:
 
