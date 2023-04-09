@@ -3,7 +3,7 @@
 Besides learning on-site at Creative Hub Kosova, I have been learning online for the past year where I learnt a lot about Computer Science in general while also taking different courses in JavaScript, ReactJs, TailwindCSS and more. 
 I am extremely disciplined when it comes to learning and improving therefore I would give it my all to deliver every day to the best of my ability and I bet that I will always exceed your expectations.<br>
 
-<br>- 🔭 I've been learning HTML, CSS, and JavaScript for the past 10 months.<br>- 🌱 I’m currently learning ReactJS and NextJS.<br>- 👯 I’m looking for an internship in the Front-End field where I would be able to showcase and improve my acquired skills<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
+<br>- 🔭 I've been learning HTML, CSS, and JavaScript for the past 10 months.<br>- 🌱 I’m currently learning ReactJS and NextJS.<br>- 🏢 I’m looking for an internship in the Front-End field where I would be able to showcase and improve my acquired skills<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
 
 
 ## 🌐 Contact:
