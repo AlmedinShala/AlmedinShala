@@ -35,7 +35,7 @@ Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
      - Omnifood - Fully responsive website (https://github.com/AlmedinShala/OmniFood-ModernResponsive-Website) <br>
      - D-agenchy - Fully responsive website 
     
- <h3> Pure or Vanilla JavaScript Projects</h3>
+ <h3> Pure/Vanilla JavaScript Projects</h3>
     - Guess My Number Game - A Simple JavaScript Game (https://github.com/AlmedinShala/Guess-My-Number-game) <br>
     - Search Country Data REST-API- One Page Website To Search Country Data (https://github.com/AlmedinShala/Search-Country-Data-REST-API)
 
