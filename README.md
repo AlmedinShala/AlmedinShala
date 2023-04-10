@@ -29,6 +29,19 @@ Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
  - In this 70 hour course, I took on more than 25 challenges where I also built 5 projects alongside the instructor
  - This Course included Modern JavaScript Features, Object-Oriented Programming, Asynchronous JavaScript and much more
 
+
+# 😎 My Projects
+ <h1>Pure HTML and CSS projects</h1> 
+    
+    
+ <h1>  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) Pure or Vanilla JavaScript Projects</h1>
+ 
+ 
+<h1>  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) JavaScript Projects </h1>
+
+
+
+
  
 
 
