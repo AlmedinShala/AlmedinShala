@@ -31,13 +31,13 @@ Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
 
 
 # 😎 My Projects
- <h1>Pure HTML and CSS projects</h1> 
+ <p>Pure HTML and CSS projects</p> 
     
     
- <h1>  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) Pure or Vanilla JavaScript Projects</h1>
+ <p>  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) Pure or Vanilla JavaScript Projects</p>
  
  
-<h1>  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) JavaScript Projects </h1>
+<p>  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) JavaScript Projects </p>
 
 
 
