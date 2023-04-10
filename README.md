@@ -33,7 +33,6 @@ Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
 # 😎 My Projects in Front-End Development
  <h3> Pure HTML and CSS projects </h3> 
      - Omnifood - Fully responsive website (https://github.com/AlmedinShala/OmniFood-ModernResponsive-Website) <br>
-     - D-agenchy - Fully responsive website 
     
  <h3> Pure/Vanilla JavaScript Projects</h3>
     - Guess My Number Game - A Simple JavaScript Game (https://github.com/AlmedinShala/Guess-My-Number-game) <br>
