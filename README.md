@@ -30,14 +30,16 @@ Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
  - This Course included Modern JavaScript Features, Object-Oriented Programming, Asynchronous JavaScript and much more
 
 
-# 😎 My Projects
+# 😎 My Projects in Front-End Development
  <h3> Pure HTML and CSS projects</h3> 
-    
+    - [Omnifood - Fully responsive website](https://github.com/AlmedinShala/OmniFood-ModernResponsive-Website)
+    - [D-agenchy - Fully responsive website] ()
     
  <h3> Pure or Vanilla JavaScript Projects</h3>
- 
- 
-<h3> JavaScript Projects </h3>
+    - [Guess My Number Game - A Simple JavaScript Game](https://github.com/AlmedinShala/Guess-My-Number-game)
+    - [Search Country Data REST-API- One Page Website To Search Country Data](https://github.com/AlmedinShala/Search-Country-Data-REST-API)
+
+
 
 
 
