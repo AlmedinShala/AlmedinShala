@@ -1,9 +1,10 @@
 # 💫 About Me:
-<br>A very passionate person about programming in general but mainly focused in front-end technologies. I am interested in getting an internship where I would be able to showcase my skills and improve them more by getting into real-world projects. 
-Besides learning on-site at Creative Hub Kosova, I have been learning online for the past year where I learnt a lot about Computer Science in general while also taking different courses in JavaScript, ReactJs, TailwindCSS and more. 
+<br>A full-stack developer, very passionate person about programming in general but mainly focused in front-end technologies. I am interested in getting a new opportunity in the web development field.
+I have close to a year experience as a full-stack developer for a startup REKOG where I work as a full-stack engineer and am responsible for maintaining, implementing and improving the application. I work with ReactJS, NextJS, NestJS, TypeORM, SQL and other technologies from front to back-end.
+I have experience as a full-stack developer at Pabau also using technologies such as ReactJS, NextJS, NestJS, PostgresSQL, GraphQL, Hasura, Prisma client and Less CSS framework.
 I am extremely disciplined when it comes to learning and improving therefore I would give it my all to deliver every day to the best of my ability and I bet that I will always exceed your expectations.<br>
 
-<br>- 🔭 I've been learning HTML, CSS, and JavaScript for the past 10 months.<br>- 🌱 I’m currently learning ReactJS and NextJS.<br>- 🏢 I’m looking for an internship in the Front-End field where I would be able to showcase and improve my acquired skills<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
+<br>- 🔭ReactJS, NextJS, NestJS, TypeORM, SQL, PostgresSQL, GIT.<br> 🏢 I’m looking for an new position in the Web Development field where I would be able to showcase and improve my acquired skills<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
 
 
 ## 🌐 Contact:
