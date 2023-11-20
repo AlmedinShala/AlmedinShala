@@ -16,6 +16,17 @@ Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+
+<h2>Work Experience</h2>
+<h6>Pabau</h6>
+Software Developer
+ - May 2023 - November 2023 - full/time
+<h6>Rekog</h6>
+Software Engineer
+- December 2023 - Present - part/time
+
+
  
 <h2>🎓 Certifications:</h2>
 
