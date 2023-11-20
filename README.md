@@ -47,6 +47,10 @@ Software Engineer
     - Search Country Data REST-API- One Page Website To Search Country Data (https://github.com/AlmedinShala/Search-Country-Data-REST-API)
 
 
+ <h3>ReactJs - NodeJS - MongoDB -- Full-stack Notes Application</h3>
+    - Notes App - An app where you can create, read, edit, delete notes. (https://github.com/AlmedinShala/createsNotesApp) 
+
+
 
 
 
