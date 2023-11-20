@@ -12,11 +12,7 @@ email: almedinsh22@hotmail.com
 Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
 
 # 💻 Tech Stack:
-
-
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
+<h1>JavaScript | ReactJS | Typescript | NextJS | Express | NodeJS | NestJS | TypeORM | GraphQL | SQL </h1>
 
 <h2>Work Experience</h2>
 <h6>Pabau</h6>
