@@ -24,7 +24,7 @@ Software Developer
  - May 2023 - November 2023 - full/time
 <h6>Rekog</h6>
 Software Engineer
-- December 2023 - Present - part/time
+- December 2022 - Present - part/time
 
 
  
