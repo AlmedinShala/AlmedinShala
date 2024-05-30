@@ -1,10 +1,9 @@
 # 💫 About Me:
-<br>A full-stack developer, very passionate person about programming in general but mainly focused in front-end technologies. I am interested in getting a new opportunity in the web development field.
-I have close to a year experience as a full-stack developer for a startup REKOG where I work as a full-stack engineer and am responsible for maintaining, implementing and improving the application. I work with ReactJS, NextJS, NestJS, TypeORM, SQL and other technologies from front to back-end.
-I have experience as a full-stack developer at Pabau also using technologies such as ReactJS, NextJS, NestJS, PostgresSQL, GraphQL, Hasura, Prisma client and Less CSS framework.
+<br>
+An experienced full-stack developer with over a year of experience
 I am extremely disciplined when it comes to learning and improving therefore I would give it my all to deliver every day to the best of my ability and I bet that I will always exceed your expectations.<br>
 
-<br>- 🔭ReactJS, NextJS, NestJS, TypeORM, SQL, PostgresSQL, GIT.<br> 🏢 I’m looking for an new position in the Web Development field where I would be able to showcase and improve my acquired skills<br>- ⚡ Fun fact: I can learn and work 10-12 hours a day, every single day, in order to improve my skills and deliver the best of my work.
+<br>- 🔭 <br>- ⚡ 
 
 
 ## 🌐 Contact:
@@ -12,17 +11,7 @@ email: almedinsh22@hotmail.com
 Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
 
 # 💻 Tech Stack:
-<h1>JavaScript | ReactJS | Typescript | NextJS | Express | NodeJS | NestJS | TypeORM | GraphQL | SQL </h1>
-
-<h2>Work Experience</h2>
-<h6>Pabau</h6>
-Software Developer
- - May 2023 - November 2023 - full/time
-<h6>Rekog</h6>
-Software Engineer
-- December 2022 - Present - part/time
-
-
+<h1>ReactJS, Redux, TypeScript, NextJS, NodeJS, NestJS, TypeORM, Prisma, GraphQl, Rest API, SQL, PostgresSQL, MongoDB, Docker, GIT. </h1>
  
 <h2>🎓 Certifications:</h2>
 
