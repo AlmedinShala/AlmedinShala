@@ -3,9 +3,6 @@
 An experienced full-stack developer with over a year of experience
 I am extremely disciplined when it comes to learning and improving therefore I would give it my all to deliver every day to the best of my ability and I bet that I will always exceed your expectations.<br>
 
-<br>- 🔭 <br>- ⚡ 
-
-
 ## 🌐 Contact:
 email: almedinnshalaa@gmail.com
 Linkedin: https://www.linkedin.com/in/almedin-shala-56902322a/
