@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>
-An experienced full-stack developer with over a year of experience
+An experienced full-stack developer with over a year of experience,
 I am extremely disciplined when it comes to learning and improving therefore I would give it my all to deliver every day to the best of my ability and I bet that I will always exceed your expectations.<br>
 
 ## 🌐 Contact:
